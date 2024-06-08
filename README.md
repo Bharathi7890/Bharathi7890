@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Bharathi7890
-# [Your Name]'s Backend Development Portfolio
+# Bharathiraja's Backend Development Portfolio
 
 Welcome to my GitHub repository! This repository showcases some of the projects I've worked on as a backend developer. Here you'll find a collection of my code samples, projects, and contributions to open-source.
 
 ## About Me
 
-I am a passionate backend developer with [X years/months] of experience in building scalable and efficient backend systems. My expertise lies in [mention your key skills, technologies, and frameworks]. I have a solid understanding of software engineering principles and enjoy solving complex problems.
+I am a passionate backend developer with six of experience in building scalable and efficient backend systems. I have a solid understanding of software engineering principles and enjoy solving complex problems.
 
 ## Projects
 
@@ -33,7 +33,7 @@ I actively contribute to open-source projects and believe in giving back to the 
 
 ## Contact
 
-Feel free to reach out to me via email at [your email address] or connect with me on [LinkedIn/Twitter/other social media platform]. I'm always open to discussing new opportunities, collaboration, or just chatting about technology.
+Feel free to reach out to me via email at bharathiraj7890@gmail.com or connect with me on www.linkedin.com/in/bharathiraj7890 . I'm always open to discussing new opportunities, collaboration, or just chatting about technology.
 
 ## Resume
 
