@@ -15,6 +15,7 @@
 - **Description:** A personal portfolio website showcasing my skills, projects, and experiences.
 
 ### [Online Job Portal](https://github.com/Bharathi7890/job-portal.git)
+You can check out the live demo of the project at: [Online Job Portal](https://onlinejobportal-onrob6lqh-bharathiraja-vs-projects.vercel.app/ )
 - **Tech Stack:** MERN
 - **Description:** A full-fledged job portal where users can register as job seekers or job providers, browse and apply for jobs, and manage their profiles.
 
