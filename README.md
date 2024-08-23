@@ -18,6 +18,13 @@
 - **Tech Stack:** MERN
 - **Description:** A full-fledged job portal where users can register as job seekers or job providers, browse and apply for jobs, and manage their profiles.
 
+## 📈 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathi7890&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 ## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.rWUYyhwrIHEXV103lu_xBgAAAA?w=196&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="100" alt="Gif 1"/>
