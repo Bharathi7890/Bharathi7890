@@ -14,7 +14,7 @@
 - **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
 - **Description:** A personal portfolio website showcasing my skills, projects, and experiences.
 
-### [Online Job Portal](https://github.com/username/online-job-portal)
+### [Online Job Portal](https://github.com/Bharathi7890/job-portal.git)
 - **Tech Stack:** MERN
 - **Description:** A full-fledged job portal where users can register as job seekers or job providers, browse and apply for jobs, and manage their profiles.
 
