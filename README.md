@@ -55,4 +55,3 @@ You can check out the live demo of the project at: [Online Job Portal](https://o
 </div>
 
 ###
-⭐️ **Fun Fact:** In my free time, I enjoy staying active with fitness routines.
