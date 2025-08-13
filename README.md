@@ -8,7 +8,7 @@
 <br><br>
 <h3>I am Backend Developer from India</h3>
 
-<h4 align="left">I'm a passionate <strong>Backend Developer</strong> with a strong foundation in backend technologies, database management, and server-side programming. I love working on challenging projects that involve building scalable, secure, and efficient backend systems.</h4><br><br>
+<h4 align="left">I'm a passionate <strong>Backend Developer</strong> with a strong foundation in backend technologies, database management, and server-side programming. I love working on challenging projects that involve building scalable, secure, and efficient backend systems</h4><br><br>
 
 ### [Portfolio](https://github.com/username/portfolio-nithin)
 - **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
