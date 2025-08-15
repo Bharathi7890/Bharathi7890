@@ -24,7 +24,7 @@ You can check out the live demo of the project at: [Online Job Portal](https://o
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathi7890&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+
 
 ## 🛠️ Technologies & Tools
 <p align="center">
