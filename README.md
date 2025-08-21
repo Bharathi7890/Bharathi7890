@@ -42,7 +42,6 @@ You can check out the live demo of the project at: [Online Job Portal](https://o
 
 ## 📫 Let's Connect
 ###
-
 <br clear="both">
 
 <div align="center">
